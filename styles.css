@@ -1,0 +1,24 @@
+body {
+  background-image: url("https://th.bing.com/th/id/R.bb98ddd886d1c58fb65dba8f602e0002?rik=wDMpyL9ulCFliQ&pid=ImgRaw&r=0");
+  background-size: cover;
+  margin: 0;
+  text-align: center;
+}
+h1 {
+  color: #FFE15D;
+  font-size: 4rem;
+  margin-top: 100px;
+}
+h3 {
+  font-size: 2rem;
+}
+.visibility {
+  visibility: hidden;
+}
+.container1 , .container2 {
+    margin: 60px 100px 50px;
+    display: inline-block;
+}
+.img1 , .img2 {
+
+}
